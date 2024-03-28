@@ -4,7 +4,7 @@ def main():
     print("Hello, welcome to our game!")
     print("We will bring you something exciting, soon!")
     print("Enjoy your adventure!")
-    print("New feature in master branch")
+    print("Conflicting feature in welcome-feature branch")
 
 if __name__ == "__main__":
     main()
